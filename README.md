@@ -1,4 +1,4 @@
-# aedes-aegypti-detection
+# Aedes aegypti detection
 
 Código do projeto de Iniciação científica intitulado: Dispositivo Eletrônico para a detecção do mosquito Aedes aegypti; 
 
